@@ -1,11 +1,18 @@
 # (Title)
-(Short description)
+Reverb and pan
 
 ## (Installing)
-...
+A kslider that you have a control for reverb and note and pan and you can record what you play at kslider and after you finish the computer will play for you randomly.
 
 ## (Usage)
-...
+1. press Preset 1
+2. adjust volume for note and reverb as you want
+2. activate trigger Play
+3. activate ezdac
+4. activate trigger record piano
+5. play at kslider some notes
+6. deactivate trigger record piano
+7. enjoy 
 
 ## (Links)
 ...
